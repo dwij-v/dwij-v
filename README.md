@@ -30,5 +30,5 @@ I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada
 
 ## 📊 GitHub Stats:
   
-| ![](https://github-readme-stats.vercel.app/api?username=DwijVirani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=DwijVirani&theme=dark&hide_border=false)  |
+| ![](https://github-readme-stats.vercel.app/api?username=dwij-v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=dwij-v&theme=dark&hide_border=false)  |
 | ------------- | ------------- |
