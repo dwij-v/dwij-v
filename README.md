@@ -3,7 +3,7 @@ I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada
 
 
 ## 💫 About Me:
-👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
+🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
 
 
 ## 🌐 Socials:
